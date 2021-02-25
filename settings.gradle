@@ -1,0 +1,4 @@
+include ':common'
+include ':mylibrary'
+include ':app'
+rootProject.name = "TestModule"
