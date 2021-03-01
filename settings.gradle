@@ -1,4 +1,4 @@
-include ':common'
 include ':mylibrary'
 include ':app'
+include ':common'
 rootProject.name = "TestModule"

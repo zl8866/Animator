@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    style="@style/match">
+    style="@style/match"
+    android:gravity="center">
 
-    <TextView
-        style="@style/tv_match_17sp_center"
-        android:text="个人中心" />
+
+    <Button
+        android:id="@+id/btn"
+        style="@style/wrap"
+        android:text="返回主界面" />
 
 </LinearLayout>
